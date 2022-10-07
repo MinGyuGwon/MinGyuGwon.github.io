@@ -1,5 +1,5 @@
 ---
 title: Search
-layout : searcn
+layout : search
 permalink : /search/
 ---
